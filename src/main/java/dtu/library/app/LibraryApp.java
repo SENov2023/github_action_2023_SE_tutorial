@@ -24,6 +24,14 @@ public class LibraryApp {
 		return loggedIn;
 	}
 
+
+
+
+
+
+
+	
+
 	/**
 	 * Logs in the administrator provided that the correct password is supplied.
 	 * @param password
