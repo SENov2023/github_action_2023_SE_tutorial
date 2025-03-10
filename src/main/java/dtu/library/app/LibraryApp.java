@@ -24,18 +24,12 @@ public class LibraryApp {
 		return loggedIn;
 	}
 
-
-
-
-
-
-
 	
 
 	/**
 	 * Logs in the administrator provided that the correct password is supplied.
 	 * @param password
-	 * @return true if the administrator could be logged in, false otherwise.
+	 * @return trukaslvdfle if the administrator could be logged in, false otherwise.
 	 */
 	public boolean adminLogin(String password) {
 		loggedIn = password.equals("adminadmin");
