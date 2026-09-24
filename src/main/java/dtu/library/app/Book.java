@@ -18,12 +18,6 @@ package dtu.library.app;
 
 
 public class Book {
-
-
-
-
-
-
 	
 	private String title;
 	private String author;
